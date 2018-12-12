@@ -1,3 +1,3 @@
 # ml-repo
 lab program test
-Thanks : [Aadith Menon] <github.com/adithm>
+Thanks : [Aadith Menon] (https://github.com/adithm)
