@@ -4,4 +4,4 @@ lab program test
 Thanks : [Aadith Menon]
 
 
-[Aadith Menon] <https://github.com/adithm>
+[Aadith Menon]: <https://github.com/adithm>
